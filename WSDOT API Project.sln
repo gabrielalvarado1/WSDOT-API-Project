@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSDOT API Project", "WSDOT API Project.csproj", "{F68A5E2F-AAC0-4987-AB88-34ECED3EF895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68A5E2F-AAC0-4987-AB88-34ECED3EF895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68A5E2F-AAC0-4987-AB88-34ECED3EF895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68A5E2F-AAC0-4987-AB88-34ECED3EF895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68A5E2F-AAC0-4987-AB88-34ECED3EF895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606CA1E2-5D7B-4DAE-9902-35F22AC5C463}
+	EndGlobalSection
+EndGlobal
