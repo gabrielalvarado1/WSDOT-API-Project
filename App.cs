@@ -25,7 +25,7 @@ namespace WSDOT_API_Project
             //populate PassInfo, RestrictionOne and RestrictionTwo models with Json information pass info
             // convert Json to populate POCO classes using NEWTONSOFT JSON tool. HAVE ALREADY INSTALLED THE NUGET PACKAGE;
             // maybe find way to put accessCode in JSON file and pull the access code from the JSON config file. This is okay for now.
-            string accessCode = "f350ce65-496d-4283-8c2d-2b7d2a37b864";
+            //string accessCode = "";
             var populate = await _wsdotStore.CallAPI(accessCode);
 
             foreach (var pass in populate)
